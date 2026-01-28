@@ -1,0 +1,72 @@
+{
+  "lastUpdated": "2026-01-28T09:58:00Z",
+  "totalInternships": 3,
+  "internships": [
+    {
+      "id": "sample-1",
+      "title": "Software Development Intern",
+      "company": "Tech Corp",
+      "logo": "",
+      "type": "internship",
+      "stipend": {
+        "min": 15000,
+        "max": 25000,
+        "currency": "INR"
+      },
+      "duration": "3 months",
+      "location": "Bangalore, Mumbai",
+      "workFromHome": false,
+      "skills": ["Python", "Django", "REST API", "Git"],
+      "deadline": "2026-02-15T00:00:00Z",
+      "url": "https://unstop.com/internships/sample-1",
+      "views": 1250,
+      "registrations": 450,
+      "scrapedAt": "2026-01-28T09:58:00Z",
+      "firstSeen": "2026-01-28T09:58:00Z"
+    },
+    {
+      "id": "sample-2",
+      "title": "Frontend Developer Intern",
+      "company": "Digital Solutions",
+      "logo": "",
+      "type": "internship",
+      "stipend": {
+        "min": 10000,
+        "max": 20000,
+        "currency": "INR"
+      },
+      "duration": "6 months",
+      "location": "Remote",
+      "workFromHome": true,
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
+      "deadline": "2026-02-20T00:00:00Z",
+      "url": "https://unstop.com/internships/sample-2",
+      "views": 2100,
+      "registrations": 780,
+      "scrapedAt": "2026-01-28T09:58:00Z",
+      "firstSeen": "2026-01-28T09:58:00Z"
+    },
+    {
+      "id": "sample-3",
+      "title": "Data Science Intern",
+      "company": "Analytics Hub",
+      "logo": "",
+      "type": "internship",
+      "stipend": {
+        "min": 20000,
+        "max": 35000,
+        "currency": "INR"
+      },
+      "duration": "4 months",
+      "location": "Hyderabad, Pune",
+      "workFromHome": false,
+      "skills": ["Python", "Machine Learning", "Pandas", "NumPy"],
+      "deadline": "2026-02-10T00:00:00Z",
+      "url": "https://unstop.com/internships/sample-3",
+      "views": 3500,
+      "registrations": 920,
+      "scrapedAt": "2026-01-28T09:58:00Z",
+      "firstSeen": "2026-01-28T09:58:00Z"
+    }
+  ]
+}
